@@ -1,0 +1,3 @@
+thsi is s a small world
+:wq
+
